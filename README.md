@@ -18,3 +18,11 @@ PersonalDiaryApp is a simple Java desktop application that helps you maintain a 
 2. Clone this repository:
    ```bash
    git clone https://github.com/Madhulathayallamanda/PersonalDiaryApp.git
+3.Navigate into the project directory:
+ cd PersonalDiaryApp
+ 4.Compile the Java source code:
+  javac -encoding UTF-8 DiaryApp.java
+5.Run the application:
+ java DiaryApp
+
+
